@@ -1,0 +1,45 @@
+body, html{
+  margin: 0; padding: 0; height: 100%;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.banner{
+  margin-top: 60px;
+  padding: 50px 0;
+}
+.text-center{
+  text-align: center;
+}
+.btn{
+  background: #d313a8 !important;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  box-shadow: 0px 3px 0px #e0e0e0;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  outline: none !important;
+  color: #fff !important;
+  font-family: 'Arial';
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 30px;
+  letter-spacing: 3px;
+  border-radius: 0;
+  border: none;
+}
+h1{
+  color: #3bbeee;
+  font-size: 52px;
+  margin-top: 85px;
+  margin-bottom: 18px;
+}
+.headline{
+  margin-bottom: 30px;
+}
+.header-wrap{
+  width: 100%;
+  background-image: url(http://pullzone.vydiainc.netdna-cdn.com/wp-content/themes/vydia/images/andybackground.jpg);
+  background-size: cover;
+}
